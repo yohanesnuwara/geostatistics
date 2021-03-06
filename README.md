@@ -1,2 +1,3 @@
 # geostatistics
-Geostatistics with Python
+
+Multiple experiments on geo-datasets
