@@ -24,3 +24,8 @@ Data source:
 🍏 Volve data village (Equinor)
 🍊 Gullfaks
 🍇 Geoprovider AS (Norway)
+
+Related repositories:
+* [volve-machine-learning](https://github.com/yohanesnuwara/volve-machine-learning)
+* [computational-geophysics](https://github.com/yohanesnuwara/computational-geophysics)
+* [formation-evaluation](https://github.com/yohanesnuwara/formation-evaluation)
