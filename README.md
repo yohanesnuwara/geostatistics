@@ -13,6 +13,7 @@ My finished and unfinished projects on multiple geo-datasets (mostly public data
 * Seismic data:
    * Amplitude extraction from 3D seismic volume on formation top in Gullfaks data
    * Co-kriging porosity from amplitude data
+   * Co-kriging depth map from TWT map
 * Poroperm workflows in Gullfaks data:
    *  Variogram modeling of spatial poroperm distribution
    *  Reservoir heterogeneity calculation from poroperm logs
